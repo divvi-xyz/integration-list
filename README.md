@@ -3,6 +3,7 @@
 Add yourself to the `integration-list.json` to be eligible for the Divvi Integration Rewards.
 
 Example:
+
 ```
 [
     ...
