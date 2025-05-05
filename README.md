@@ -4,11 +4,11 @@ Add yourself to the `integration-list.json` to be eligible for the Divvi Integra
 
 Example:
 ```
-{
+[
     ...
     {
         entityAddress: '0x123...',
         githubUsername: 'exampleUsername',
     }
-}
+]
 ```
