@@ -6,7 +6,10 @@ export const schema = z.array(
   z.object({
     entityAddress: z
       .string()
-      .regex(walletAddressPattern, 'Invalid wallet address. We only accept lowercased addresses.'),
+      .regex(
+        walletAddressPattern,
+        'Invalid wallet address. We only accept lowercased addresses.',
+      ),
     githubUsername: z.string().min(1, 'GitHub username is required.'),
   }),
 )
