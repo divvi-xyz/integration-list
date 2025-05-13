@@ -8,8 +8,8 @@ Example:
 [
     ...
     {
-        entityAddress: '0x123...',
-        githubUsername: 'exampleUsername',
+        "entityAddress": "0x123...",
+        "githubUsername": "exampleUsername",
     }
 ]
 ```
