@@ -1,6 +1,6 @@
 # Divvi Integration List
 
-Add yourself to the `integration-list.json` to be eligible for the Divvi Integration Rewards.
+Add yourself to the `integration-list.json` to be eligible for the Divvi Integration Rewards. Please add your Divvi builder entity address (lowercased), and your github username.
 
 Example:
 
