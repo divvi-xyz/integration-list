@@ -24,7 +24,15 @@
     "githubUsername": "aliveevie"
   },
   {
-    "entityAddress": "0x22886C71a4C1Fa2824BD86210ead1C310B3d7cf5",
+    "entityAddress": "0xc5337cee97ff5b190f26c4a12341dd210f26e17c",
+    "githubUsername": "gabrieltemtsen"
+  },
+  {
+    "entityAddress": "0x2c2bc76b97bce84a5a9c6e2835ab13306b964cf1",
+    "githubUsername": "ubeswap"
+  },
+  {
+    "entityAddress": "0x22886c71a4c1fa2824bd86210ead1c310b3d7cf5",
     "githubUsername": "TuCopFinance"
   }
 ]
